@@ -1,0 +1,16 @@
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/bin/Debug/netstandard2.0/Module2Activity1.deps.json
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/bin/Debug/netstandard2.0/Module2Activity1.dll
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/bin/Debug/netstandard2.0/ref/Module2Activity1.dll
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/bin/Debug/netstandard2.0/Module2Activity1.pdb
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/Module2Activity1.csproj.AssemblyReference.cache
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/Module2Activity1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/VIew/Page1.xaml.g.cs
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/Module2Activity1.AssemblyInfoInputs.cache
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/Module2Activity1.AssemblyInfo.cs
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/Module2Activity1.csproj.CoreCompileInputs.cache
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/Module2Activity1.dll
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/refint/Module2Activity1.dll
+/Users/kane/Projects/Module2Activity1/Module2Activity1/Module2Activity1/obj/Debug/netstandard2.0/Module2Activity1.pdb

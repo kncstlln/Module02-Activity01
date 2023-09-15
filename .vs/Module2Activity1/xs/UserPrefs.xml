@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{4EA2C888-54AA-4EF3-933F-EADD5A04AC97}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module2Activity1/Module2Activity1/App.xaml.cs">
+    <Files>
+      <File FileName="Module2Activity1/Module2Activity1/MainPage.xaml.cs" />
+      <File FileName="Module2Activity1/Module2Activity1/MainPage.xaml" />
+      <File FileName="Module2Activity1/Module2Activity1/Model/TaskModel.cs" Line="14" Column="1" />
+      <File FileName="Module2Activity1/Module2Activity1/VIew/Page1.xaml" />
+      <File FileName="Module2Activity1/Module2Activity1/VIew/Page1.xaml.cs" />
+      <File FileName="Module2Activity1/Module2Activity1/ViewModel/TaskViewModel.cs" />
+      <File FileName="Module2Activity1/Module2Activity1/App.xaml" />
+      <File FileName="Module2Activity1/Module2Activity1/App.xaml.cs" Line="13" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module2Activity1" expanded="True">
+            <Node name="Module2Activity1">
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.1.2" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Module2Activity1.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
